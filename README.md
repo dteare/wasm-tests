@@ -8,6 +8,6 @@ The `cargo-expand` folder demonstrates how to use [cargo expand](https://github.
 
 * Install with `cargo install cargo-expand`
 * Run `make expand`
-* Look at [expanded.rs](./expanded.rs) to see the generated stack machine. 🙂
+* Look at [expanded.rs](./cargo-expand/expanded.rs) to see the generated stack machine. 🙂
 
 HT to [Rust and JavaScript Interop](https://blog.ryanlevick.com/posts/wasm-bindgen-interop/) for teaching me this one. 
